@@ -1,0 +1,38 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.navbar{
+    display: flex;
+   justify-content: space-around;
+    align-items: center;
+}
+
+.drr{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 20px;
+    margin-left: 2px;
+
+}
+.gch h1{
+    font-size: 14px;
+
+}
+.flch{
+    
+    
+    width: 9px;
+    height: 9px;
+    margin-left: -28px;
+    
+}
+.bt{
+    background-color: #7DE0EA;
+    border-radius: 13px;
+    color: white;
+    padding: 11px;
+    border: none;
+}
+
