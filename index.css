@@ -79,4 +79,50 @@ body{
     margin-top: 3rem;
 }
 
+.aqa{
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
 
+.div11 {
+    width: 600px;
+    height: 300px;
+    background-color: #DEFCFF;
+    border-radius: 20px;
+    }
+.div22{
+    width: 600px;
+    height: 300px;
+    background-color:#a38bff;
+    border-radius: 20px;
+
+}
+.dv111{
+    background-color: white;
+    color: #28747a;
+    border: none;
+}
+.dv222{
+    background-color: white;
+    color: #28747a;
+    border: none;
+}
+.div33{
+    width: 600px;
+    height: 300px;
+    background-color:#C7EBE4;
+    border-radius: 20px;
+}
+.dv22{
+    background-color: #583FBC;
+    color: white;
+    padding: 1rem;
+    border-radius: 20px;
+}
+.dv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
