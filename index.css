@@ -126,3 +126,24 @@ body{
     flex-direction: column;
     align-items: center;
 }
+
+.divqq{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+}
+.partii4{
+    display: flex;
+    flex-direction: column;
+}
+
+.hh{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+.partiii{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
