@@ -65,3 +65,18 @@ body{
     margin-top: 3rem;
     align-items: center;
 }
+
+.ell{
+    width: 440px;
+    height: 330px;
+}
+.partie3{
+    display: flex;
+    justify-content: space-around;
+}
+.aa{
+    margin-left: -9rem;
+    margin-top: 3rem;
+}
+
+
