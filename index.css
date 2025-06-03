@@ -147,3 +147,48 @@ body{
     justify-content: space-between;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.duvv1{
+    width: 800px;
+    height: 190px;
+    background-color: #583FBC;
+    border-radius: 15px;
+    margin-top: 5rem;
+}
+.dueu{
+    background-color: #7DE0EA;
+    color: white;
+}
+.partii5{
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 500px){
+        .navbar{flex-direction: column;
+        height: 100vh;
+        position: fixed;
+        background-color: black;
+        top: 0;
+        right: -400;
+        width: 300px;
+        transition: 0.7s ease-in-out;
+        }
+        .milieu{flex-direction: column;}
+}
+
+.toggle{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.rectangle{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    
+}
+    
